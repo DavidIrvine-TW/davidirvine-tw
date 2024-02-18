@@ -2,13 +2,11 @@
 
 
 - 🔭 I’m currently/always working on all things web dev...
-
+- 
+ <img src="https://skillicons.dev/icons?i=html" alt="skills-icons"/>
 <!--
 **DavidIrvine-TW/davidirvine-tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <img
-                src="https://skillicons.dev/icons?i=html"
-                alt="skills-icons"
-              />
+
 Here are some ideas to get you started:
 
 
