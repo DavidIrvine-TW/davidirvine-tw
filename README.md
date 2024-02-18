@@ -4,8 +4,9 @@
 - 🔭 I’m currently/always working on all things web dev...
 
 
- <img src="https://skillicons.dev/icons?i=html" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=html" alt="skills-icons"/>
- <img src="https://skillicons.dev/icons?i=html" alt="skills-icons"/>
+ <img src="https://skillicons.dev/icons?i=html" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=css" alt="skills-icons"/>
+ <img src="https://skillicons.dev/icons?i=js" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=react" alt="skills-icons"/>
+ <img src="https://skillicons.dev/icons?i=nextjs" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=tailwind" alt="skills-icons"/>
 <!--
 **DavidIrvine-TW/davidirvine-tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
