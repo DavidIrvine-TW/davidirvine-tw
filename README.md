@@ -1,7 +1,7 @@
 ### Holla 👋
 
 
-- 🔭 I’m currently working on all things related to web development...
+- 🔭 Currently working on all things web dev...
 
 My tech stack: 
 
