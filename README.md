@@ -6,7 +6,8 @@
 My tech stack: 
 
  <img src="https://skillicons.dev/icons?i=html" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=css" alt="skills-icons"/>
- <img src="https://skillicons.dev/icons?i=js" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=react" alt="skills-icons"/>
+ <img src="https://skillicons.dev/icons?i=js" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=ts" alt="skills-icons"/>
+ <img src="https://skillicons.dev/icons?i=react" alt="skills-icons"/>
  <img src="https://skillicons.dev/icons?i=nextjs" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=tailwind" alt="skills-icons"/>
  <img src="https://skillicons.dev/icons?i=sass" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=figma" alt="skills-icons"/>
  <img src="https://skillicons.dev/icons?i=mongodb" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=firebase" alt="skills-icons"/>
