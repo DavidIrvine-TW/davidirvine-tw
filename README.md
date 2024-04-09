@@ -1,7 +1,7 @@
 ### Holla 👋
 
 
-- 🔭 Currently working on all things web dev...
+- 🔭 Currently working on all things web dev... atm Typescript
 
 My tech stack: 
 
